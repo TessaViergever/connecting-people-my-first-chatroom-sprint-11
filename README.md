@@ -1,8 +1,6 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Een chatroom voor Plantswap
 
 ## Inhoudsopgave
 
@@ -15,8 +13,11 @@
 
 ## Beschrijving
 
-<!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
-<!-- Voeg een mooie poster visual toe 📸 -->
+Een chatroom voor Plant Swap, waar plantenliefhebbers kunnen chatten met elkaar. Hier kunnen gebruikers bijvoorbeeld tips delen of vragen aan elkaar stellen.
+
+<img width="500" alt="een groene achtergrond met een invoerveld voor chatberichten." src="https://github.com/TessaViergever/plantswap-chatroom-sprint-11/assets/112861180/88e4a042-2056-456b-bdcf-caab7b9d0379">
+
+
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
 ## Gebruik
